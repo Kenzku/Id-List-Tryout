@@ -1,7 +1,7 @@
 Id-List-Tryout
 ==============
 
-This is a tryout to solve the problem that describe in index.html and also a tryout to use `Requirejs` on browser side.
+This is a tryout to solve the problem that describe in **/view/index.ejs** and also a tryout to use `Requirejs` on browser side.
 
 ## Build the app
 
