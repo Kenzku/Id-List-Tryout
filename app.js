@@ -27,6 +27,9 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index);
+app.get('/index', function(req,res){
+    res.sendfile(__dirname + '/public/index.html');
+});
 app.get('/test', function(req,res){
     res.sendfile(__dirname + '/public/test/indextest.html');
 });
