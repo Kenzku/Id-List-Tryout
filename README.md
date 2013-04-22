@@ -13,6 +13,8 @@ To sreve the application you need a server running Node.js with NPM installed. S
 
 the node server uses port 3000 by default, so you can go to ```http://localhost:3000/```
 
+if you haven't install node, please visit: ```http://nodejs.org```
+
 ## Testing
 The test is being done by Qunit: http://qunitjs.com
 
