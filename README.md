@@ -16,7 +16,7 @@ the node server uses port 3000 by default, so you can go to ```http://localhost:
 if you haven't install node, please visit: ```http://nodejs.org```
 
 ## Testing
-The test is being done by Qunit: http://qunitjs.com
+The test is done by Qunit: http://qunitjs.com
 
 To run the test, please firstly build the app, and run the server: ```node app.js```
 then go to ```http://localhost:3000/test```
